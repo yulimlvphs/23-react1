@@ -1,6 +1,6 @@
 # 23-React1 <h1>202130228_정유림</h1>
 2023 react 수업
-tetst
+tetstfg
 <h3>6/1</h3>
 
 - Sytle-components는 태그드 템플릿 리터럴을 사용하여 구성 요소의 스타일을 지정합니다.
